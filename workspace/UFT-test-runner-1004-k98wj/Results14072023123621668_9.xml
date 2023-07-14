@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<testsuites xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="uftRunnerRoot">
+  <testsuite tests="22" failures="2" errors="0" package="HPToolsFileSystemRunner">
+    <testcase name="D:\git\UFT\NewRepoTest\NewRepoTest" report="D:\git\UFT\NewRepoTest_1\Report" time="49.5319996" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:36:22 Running: D:\git\UFT\NewRepoTest\NewRepoTest
+Running test: D:\git\UFT\NewRepoTest\NewRepoTest
+Test result: Passed
+uftReportDir is D:\git\UFT\NewRepoTest\NewRepoTest\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\NewTestNewConfig1\NewTestNewConfig1" report="D:\git\UFT\NewTestNewConfig1_1\Report" time="6.884932" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:37:12 Running: D:\git\UFT\NewTestNewConfig1\NewTestNewConfig1
+Running test: D:\git\UFT\NewTestNewConfig1\NewTestNewConfig1
+Test result: Passed
+uftReportDir is D:\git\UFT\NewTestNewConfig1\NewTestNewConfig1\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\RUN TEST001\RUN TEST001" report="D:\git\UFT\RUN TEST001_1\Report" time="21.311183" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:37:19 Running: D:\git\UFT\RUN TEST001\RUN TEST001
+Running test: D:\git\UFT\RUN TEST001\RUN TEST001
+Test result: Passed
+uftReportDir is D:\git\UFT\RUN TEST001\RUN TEST001\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\test3\test3" report="D:\git\UFT\test3_1\Report" time="5.5400564" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:37:40 Running: D:\git\UFT\test3\test3
+Running test: D:\git\UFT\test3\test3
+Test result: Passed
+uftReportDir is D:\git\UFT\test3\test3\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\testRun004\testRun004" report="D:\git\UFT\testRun004_1\Report" time="4.9867465" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:37:45 Running: D:\git\UFT\testRun004\testRun004
+Running test: D:\git\UFT\testRun004\testRun004
+Test result: Passed
+uftReportDir is D:\git\UFT\testRun004\testRun004\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\test_2\test_2" report="D:\git\UFT\test_2_1\Report" time="5.4236788" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:37:50 Running: D:\git\UFT\test_2\test_2
+Running test: D:\git\UFT\test_2\test_2
+Test result: Passed
+uftReportDir is D:\git\UFT\test_2\test_2\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\Test_Prova\Test_Prova" report="D:\git\UFT\Test_Prova_1\Report" time="5.1975316" classname="All-Tests.D:\git\UFT" status="fail">
+      <error message="Expected statement" />
+      <failure message="Test failed" />
+      <system-out>14/07/2023 12:37:56 Running: D:\git\UFT\Test_Prova\Test_Prova
+Running test: D:\git\UFT\Test_Prova\Test_Prova
+Test result: Failed
+uftReportDir is D:\git\UFT\Test_Prova\Test_Prova\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\Test_Run001\Test_Run001" report="D:\git\UFT\Test_Run001_1\Report" time="6.384256" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:01 Running: D:\git\UFT\Test_Run001\Test_Run001
+Running test: D:\git\UFT\Test_Run001\Test_Run001
+Test result: Passed
+uftReportDir is D:\git\UFT\Test_Run001\Test_Run001\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\UFT_TEST1\UFT_TEST1" report="D:\git\UFT\UFT_TEST1_1\Report" time="4.9860228" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:07 Running: D:\git\UFT\UFT_TEST1\UFT_TEST1
+Running test: D:\git\UFT\UFT_TEST1\UFT_TEST1
+Test result: Passed
+uftReportDir is D:\git\UFT\UFT_TEST1\UFT_TEST1\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\UFT_test3\UFT_test3" report="D:\git\UFT\UFT_test3_1\Report" time="6.7866845" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:12 Running: D:\git\UFT\UFT_test3\UFT_test3
+Running test: D:\git\UFT\UFT_test3\UFT_test3
+Test result: Passed
+uftReportDir is D:\git\UFT\UFT_test3\UFT_test3\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\UFT_TEST_NUOVO\UFT_TEST_NUOVO" report="D:\git\UFT\UFT_TEST_NUOVO_1\Report" time="8.0378028" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:19 Running: D:\git\UFT\UFT_TEST_NUOVO\UFT_TEST_NUOVO
+Running test: D:\git\UFT\UFT_TEST_NUOVO\UFT_TEST_NUOVO
+Test result: Passed
+uftReportDir is D:\git\UFT\UFT_TEST_NUOVO\UFT_TEST_NUOVO\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\NewRepoTest\NewRepoTest" report="D:\git\UFT\NewRepoTest_2\Report" time="6.9910102" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:27 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\NewRepoTest\NewRepoTest
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\NewRepoTest\NewRepoTest
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\NewRepoTest\NewRepoTest\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\NewTestNewConfig1\NewTestNewConfig1" report="D:\git\UFT\NewTestNewConfig1_2\Report" time="5.5724525" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:34 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\NewTestNewConfig1\NewTestNewConfig1
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\NewTestNewConfig1\NewTestNewConfig1
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\NewTestNewConfig1\NewTestNewConfig1\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\RUN TEST001\RUN TEST001" report="D:\git\UFT\RUN TEST001_2\Report" time="5.2628317" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:40 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\RUN TEST001\RUN TEST001
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\RUN TEST001\RUN TEST001
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\RUN TEST001\RUN TEST001\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\test3\test3" report="D:\git\UFT\test3_2\Report" time="5.0109327" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:45 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\test3\test3
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\test3\test3
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\test3\test3\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\testRun004\testRun004" report="D:\git\UFT\testRun004_2\Report" time="5.2882188" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:50 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\testRun004\testRun004
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\testRun004\testRun004
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\testRun004\testRun004\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\test_2\test_2" report="D:\git\UFT\test_2_2\Report" time="7.266602" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:38:55 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\test_2\test_2
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\test_2\test_2
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\test_2\test_2\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\Test_Prova\Test_Prova" report="D:\git\UFT\Test_Prova_2\Report" time="9.2173261" classname="All-Tests.D:\git\UFT" status="fail">
+      <error message="Expected statement" />
+      <failure message="Test failed" />
+      <system-out>14/07/2023 12:39:03 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\Test_Prova\Test_Prova
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\Test_Prova\Test_Prova
+Test result: Failed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\Test_Prova\Test_Prova\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\Test_Run001\Test_Run001" report="D:\git\UFT\Test_Run001_2\Report" time="8.1185715" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:39:12 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\Test_Run001\Test_Run001
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\Test_Run001\Test_Run001
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\Test_Run001\Test_Run001\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_TEST1\UFT_TEST1" report="D:\git\UFT\UFT_TEST1_2\Report" time="4.5522476" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:39:20 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_TEST1\UFT_TEST1
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_TEST1\UFT_TEST1
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_TEST1\UFT_TEST1\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_test3\UFT_test3" report="D:\git\UFT\UFT_test3_2\Report" time="4.4020194" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:39:25 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_test3\UFT_test3
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_test3\UFT_test3
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_test3\UFT_test3\Report1
+</system-out>
+    </testcase>
+    <testcase name="D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_TEST_NUOVO\UFT_TEST_NUOVO" report="D:\git\UFT\UFT_TEST_NUOVO_2\Report" time="6.0938404" classname="All-Tests.D:\git\UFT" status="pass">
+      <system-out>14/07/2023 12:39:29 Running: D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_TEST_NUOVO\UFT_TEST_NUOVO
+Running test: D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_TEST_NUOVO\UFT_TEST_NUOVO
+Test result: Passed
+uftReportDir is D:\git\UFT\_test_sources\github.com_pdagata_UFT\UFT_TEST_NUOVO\UFT_TEST_NUOVO\Report1
+</system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuites xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="uftRunnerRoot">
+  <testsuite tests="1" failures="0" errors="1" package="HPToolsFileSystemRunner">
+    <testcase name="D:\git\UFT\workspace\UFT-test-runner-1004-k98wj\..\..\_test_sources\github.com_pdagata_UFT\NewTestNewConfig1\NewTestNewConfig1" time="77.4339547" classname="All-Tests.Test group" status="error">
+      <error message="The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state." />
+      <system-out>14/07/2023 12:19:29 Running: D:\git\UFT\workspace\UFT-test-runner-1004-k98wj\..\..\_test_sources\github.com_pdagata_UFT\NewTestNewConfig1\NewTestNewConfig1
+Error: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+Test result: Error
+uftReportDir is D:\git\UFT\workspace\UFT-test-runner-1004-k98wj\..\..\_test_sources\github.com_pdagata_UFT\NewTestNewConfig1\NewTestNewConfig1\Report1
+</system-out>
+      <system-err>Error: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+</system-err>
+    </testcase>
+  </testsuite>
+</testsuites>

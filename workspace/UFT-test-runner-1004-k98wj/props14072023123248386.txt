@@ -1,0 +1,113 @@
+#
+#Fri Jul 14 12:32:48 CEST 2023
+runType=FileSystem
+JenkinsEnv51=PROCESSOR_ARCHITECTURE;AMD64
+JenkinsEnv50=PATHEXT;.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+MobileProxySetting_Authentication=0
+SummaryDataLog=0;0;0;30
+JenkinsEnv55=ProgramData;C\:\\ProgramData
+JenkinsEnv54=PROCESSOR_REVISION;8e0b
+JenkinsEnv53=PROCESSOR_LEVEL;6
+JenkinsEnv52=PROCESSOR_IDENTIFIER;Intel64 Family 6 Model 142 Stepping 11, GenuineIntel
+JenkinsEnv59=PROMPT;$P$G
+JenkinsEnv58=ProgramW6432;C\:\\Program Files
+JenkinsEnv57=ProgramFiles(x86);C\:\\Program Files (x86)
+JenkinsEnv56=ProgramFiles;C\:\\Program Files
+JenkinsEnv62=RUN_ARTIFACTS_DISPLAY_URL;http\://localhost\:8080/job/UFT-test-runner-1004-k98wj/7/display/redirect?page\=artifacts
+JenkinsEnv61=PUBLIC;C\:\\Users\\Public
+JenkinsEnv60=PSModulePath;C\:\\Program Files\\WindowsPowerShell\\Modules;C\:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules;C\:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\PowerShell\\Modules\\
+fsUftRunMode=Fast
+JenkinsEnv66=SESSIONNAME;Console
+FailedTest1=test
+JenkinsEnv65=RUN_TESTS_DISPLAY_URL;http\://localhost\:8080/job/UFT-test-runner-1004-k98wj/7/display/redirect?page\=tests
+JenkinsEnv64=RUN_DISPLAY_URL;http\://localhost\:8080/job/UFT-test-runner-1004-k98wj/7/display/redirect
+JenkinsEnv63=RUN_CHANGES_DISPLAY_URL;http\://localhost\:8080/job/UFT-test-runner-1004-k98wj/7/display/redirect?page\=changes
+JenkinsEnv69=SystemDrive;C\:
+JenkinsEnv68=suiteRunId;1197
+JenkinsEnv67=suiteId;1720
+testType=Rerun the entire set of tests
+MobileUseSSL=1
+JenkinsEnv33=HUDSON_URL;http\://localhost\:8080/
+fsReportPath=D\:\\git\\UFT
+JenkinsEnv32=HUDSON_SERVER_COOKIE;b95ae8b0b824a5a5
+JenkinsEnv31=HUDSON_HOME;C\:\\ProgramData\\Jenkins\\.jenkins
+JenkinsEnv30=HOMEPATH;\\Users\\p.dagata
+JenkinsEnv37=JOB_BASE_NAME;UFT-test-runner-1004-k98wj
+JenkinsEnv36=JENKINS_URL;http\://localhost\:8080/
+JenkinsEnv35=JENKINS_SERVER_COOKIE;b95ae8b0b824a5a5
+JenkinsEnv34=JENKINS_HOME;C\:\\ProgramData\\Jenkins\\.jenkins
+printTestParams=1
+JenkinsEnv39=JOB_NAME;UFT-test-runner-1004-k98wj
+JenkinsEnv38=JOB_DISPLAY_URL;http\://localhost\:8080/job/UFT-test-runner-1004-k98wj/display/redirect
+MobileHostAddress=
+Test1=test
+JenkinsEnv40=JOB_URL;http\://localhost\:8080/job/UFT-test-runner-1004-k98wj/
+JenkinsEnv44=NODE_NAME;UFT01
+JenkinsEnv43=NODE_LABELS;UFT UFT01
+MobileProxySetting_Address=
+JenkinsEnv42=LOGONSERVER;\\\\DESKTOP-FQCMQ3N
+JenkinsEnv41=LOCALAPPDATA;C\:\\Users\\p.dagata\\AppData\\Local
+JenkinsEnv48=OS;Windows_NT
+JenkinsEnv47=OneDriveConsumer;C\:\\Users\\p.dagata\\OneDrive
+JenkinsEnv46=OneDrive;C\:\\Users\\p.dagata\\OneDrive
+JenkinsEnv45=NUMBER_OF_PROCESSORS;2
+MobileUseProxy=0
+JenkinsEnv49=Path;C\:\\Program Files\\Common Files\\Oracle\\Java\\javapath;D\:\\download\\WINDOWS.X64_193000_db_home\\bin;C\:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Windows\\System32\\OpenSSH\\;C\:\\Program Files (x86)\\Pulse Secure\\VC142.CRT\\X64\\;C\:\\Program Files (x86)\\Pulse Secure\\VC142.CRT\\X86\\;C\:\\Program Files\\Azure Data Studio\\bin;C\:\\Program Files\\PuTTY\\;C\:\\Program Files\\nodejs\\;C\:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C\:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C\:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C\:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C\:\\Program Files (x86)\\Common Files\\Pulse Secure\\TNC Client Plugin\\;D\:\\Program\\Git\\cmd;C\:\\Users\\p.dagata\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C\:\\Users\\p.dagata\\AppData\\Local\\Programs\\Python\\Python310\\;C\:\\Users\\p.dagata\\AppData\\Local\\Microsoft\\WindowsApps;;C\:\\Program Files\\Azure Data Studio\\bin;C\:\\Users\\p.dagata\\AppData\\Roaming\\npm;C\:\\Users\\p.dagata\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C\:\\Program Files\\IPFS Desktop\\resources\\app.asar.unpacked\\src\\ipfs-on-path\\scripts\\bin-win
+fsTimeout=10000
+MobileProxySetting_UserName=
+MobileProxyType=0
+JenkinsEnv9=BUILD_TAG;jenkins-UFT-test-runner-1004-k98wj-7
+JenkinsEnv8=BUILD_NUMBER;7
+JenkinsEnv7=BUILD_ID;7
+JenkinsEnv11=CHECKOUT_SUBDIR;..\\..\\_test_sources\\github.com_pdagata_UFT
+JenkinsEnv10=BUILD_URL;http\://localhost\:8080/job/UFT-test-runner-1004-k98wj/7/
+JenkinsEnv15=CommonProgramFiles(x86);C\:\\Program Files (x86)\\Common Files
+JenkinsEnv14=CommonProgramFiles;C\:\\Program Files\\Common Files
+JenkinsEnv13=CLASSPATH;
+JenkinsEnv12=CI;true
+JenkinsEnv19=DriverData;C\:\\Windows\\System32\\Drivers\\DriverData
+JenkinsEnv18=ComSpec;C\:\\Windows\\system32\\cmd.exe
+JenkinsEnv17=COMPUTERNAME;DESKTOP-FQCMQ3N
+JenkinsEnv16=CommonProgramW6432;C\:\\Program Files\\Common Files
+PerScenarioTimeOut=10
+JenkinsEnv2=\=C\:;C\:\\Users\\p.dagata
+JenkinsEnv1=\=\:\:;\:\:\\
+JenkinsEnv6=BUILD_DISPLAY_NAME;\#7
+JenkinsEnv5=APPDATA;C\:\\Users\\p.dagata\\AppData\\Roaming
+JenkinsEnv4=ALLUSERSPROFILE;C\:\\ProgramData
+JenkinsEnv3=\=ExitCode;00000000
+Selected\ node=master
+JenkinsEnv22=FPS_BROWSER_USER_PROFILE_STRING;Default
+JenkinsEnv21=FPS_BROWSER_APP_PROFILE_STRING;Internet Explorer
+JenkinsEnv20=EXECUTOR_NUMBER;0
+displayController=0
+JenkinsEnv26=GIT_PREVIOUS_COMMIT;8fccea77c9e2ae61443636547f79ed41e43c1a06
+JenkinsEnv25=GIT_COMMIT;8fccea77c9e2ae61443636547f79ed41e43c1a06
+JenkinsEnv24=GIT_CHECKOUT_DIR;..\\..\\_test_sources\\github.com_pdagata_UFT
+JenkinsEnv23=GIT_BRANCH;origin/main
+numOfTests=1
+JenkinsEnv29=HOMEDRIVE;C\:
+JenkinsEnv28=GIT_URL;https\://github.com/pdagata/UFT
+MobileProxySetting_Password=
+JenkinsEnv27=GIT_PREVIOUS_SUCCESSFUL_COMMIT;8fccea77c9e2ae61443636547f79ed41e43c1a06
+controllerPollingInterval=30
+resultsFilename=Results14072023123248386_7.xml
+mobileinfo=
+JenkinsEnv73=Test Runner logical name;k98wjop5l1p6wuqy32exx76m0
+JenkinsEnv72=Test Runner ID;1004
+JenkinsEnv71=TEMP;C\:\\Users\\PDE73~1.DAG\\AppData\\Local\\Temp
+JenkinsEnv70=SystemRoot;C\:\\Windows
+JenkinsEnv77=TMP;C\:\\Users\\PDE73~1.DAG\\AppData\\Local\\Temp
+JenkinsEnv76=testsToRunConverted;<Mtbx>\r\n  <Test name\="NewTestNewConfig1\\NewTestNewConfig1" path\="D\:\\git\\UFT\\workspace\\UFT-test-runner-1004-k98wj\\..\\..\\_test_sources\\github.com_pdagata_UFT\\NewTestNewConfig1\\NewTestNewConfig1"/>\r\n</Mtbx>\r\n
+JenkinsEnv75=testsToRunCheckoutDirectory;D\:\\git\\UFT\\workspace\\UFT-test-runner-1004-k98wj\\..\\..\\_test_sources\\github.com_pdagata_UFT
+JenkinsEnv74=testsToRun;v1\:NewTestNewConfig1||NewTestNewConfig1|runId\=1198
+JenkinsEnv79=USERDOMAIN_ROAMINGPROFILE;DESKTOP-FQCMQ3N
+JenkinsEnv78=USERDOMAIN;DESKTOP-FQCMQ3N
+onCheckFailedTest=false
+Reruns1=0
+JenkinsEnv80=USERNAME;p.dagata
+JenkinsEnv84=WORKSPACE_TMP;D\:\\git\\UFT\\workspace\\UFT-test-runner-1004-k98wj@tmp
+JenkinsEnv83=WORKSPACE;D\:\\git\\UFT\\workspace\\UFT-test-runner-1004-k98wj
+JenkinsEnv82=windir;C\:\\Windows
+JenkinsEnv81=USERPROFILE;C\:\\Users\\p.dagata
+analysisTemplate=
